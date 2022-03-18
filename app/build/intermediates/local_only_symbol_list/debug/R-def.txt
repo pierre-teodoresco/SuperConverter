@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color background_color
+color black
+color purple_200
+color purple_500
+color purple_700
+color secondary_color
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id conversion_button
+id conversion_rate
+id conversion_result
+id conversion_value
+id mainText
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string EUR_acronym
+string USD_acronym
+string app_name
+string convert
+string default_conversion_rate
+string empty_value
+style Theme.SuperConverter
